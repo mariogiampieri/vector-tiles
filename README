@@ -1,1 +1,7 @@
-Repo for creating vector tiles served through TileStache and drawn using Tangram.
+##Repo for creating vector tiles served through TileStache and drawn using Tangram.##
+
+#To do:#
+- record steps for installation / setup of server
+- make requirements.txt file for ease of setup
+- specify how to add layers to db (via command cheat sheet) and as layers in webmap
+- note how to run server
